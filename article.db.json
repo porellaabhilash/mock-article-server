@@ -1,50 +1,53 @@
-[{
-   "id": 1,
-   "category": "sports",
-   “content”: "sports content 1"
- },
- {
-   "id": 2,
-   "category": "health",
-   "content": "health content 1"
- },
- {
-   "id": 3,
-   "category": "sports",
-   “content”: "sports content 2"
- },
- {
-   "id": 4,
-   "category": "health",
-   "content": "health content2"
- },
- {
-   "id": 5,
-   "category": "sports",
-   “content”: "sports content 3"
- },
- {
-   "id": 6,
-   "category": "health",
-   "content": "health content 3"
- },
- {
-   "id": 7,
-   "category": "sports",
-   “content”: "sports content 4"
- },
- {
-   "id": 8,
-   "category": "health",
-   "content": "health content 4"
- },
- {
-   "id": 9,
-   "category": "sports",
-   “content”: "sports content 5"
- },
- {
-   "id": 10,
-   "category": "health",
-   "content": "health content 5"
- }]
+{
+	"articles": [{
+			"id": 1,
+			"category": "sports",
+			"content": "sports content 1"
+		},
+		{
+			"id": 2,
+			"category": "health",
+			"content": "health content 1"
+		},
+		{
+			"id": 3,
+			"category": "sports",
+			"content": "sports content 2"
+		},
+		{
+			"id": 4,
+			"category": "health",
+			"content": "health content2"
+		},
+		{
+			"id": 5,
+			"category": "sports",
+			"content": "sports content 3"
+		},
+		{
+			"id": 6,
+			"category": "health",
+			"content": "health content 3"
+		},
+		{
+			"id": 7,
+			"category": "sports",
+			"content": "sports content 4"
+		},
+		{
+			"id": 8,
+			"category": "health",
+			"content": "health content 4"
+		},
+		{
+			"id": 9,
+			"category": "sports",
+			"content": "sports content 5"
+		},
+		{
+			"id": 10,
+			"category": "health",
+			"content": "health content 5"
+		}
+	]
+}
